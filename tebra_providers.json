@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dr. Vikramjeet Saini, MD",
+        "specialty": "Interventional Pain Medicine Physician",
+        "address": "9620 N Metro Parkway West\n                                    \n                                        Suite 143\n                                    \n                                    Phoenix, AZ 85051",
+        "rating": "4.9",
+        "review_count": "(924)"
+    },
+    {
+        "name": "Dr. Vikramjeet Saini, MD",
+        "specialty": "Interventional Pain Medicine Physician",
+        "address": "4140 North 108th Avenue\n                                    \n                                        134\n                                    \n                                    Phoenix, AZ 85037",
+        "rating": "4.9",
+        "review_count": "(924)"
+    },
+    {
+        "name": "Dr. Vikramjeet Saini, MD",
+        "specialty": "Interventional Pain Medicine Physician",
+        "address": "6560 E Carondelet Drive\n                                    \n                                    Tucson, AZ 85710",
+        "rating": "4.9",
+        "review_count": "(924)"
+    },
+    {
+        "name": "Dr. Vikramjeet Saini, MD",
+        "specialty": "Interventional Pain Medicine Physician",
+        "address": "20325 North 51st Avenue Bldg. 8\n                                    \n                                        160\n                                    \n                                    Glendale, AZ 85308",
+        "rating": "4.9",
+        "review_count": "(924)"
+    },
+    {
+        "name": "Dr. Alena Polesin",
+        "specialty": "Specialist",
+        "address": "160 E. Hanover Avenue\n                                    \n                                        Suite 202\n                                    \n                                    Morristown, NJ 07960",
+        "rating": "4.89",
+        "review_count": "(705)"
+    },
+    {
+        "name": "Dr. Lane Peterson, DO",
+        "specialty": "Pain Medicine Physiatrist",
+        "address": "27810 Summergate Blvd\n                                    \n                                    Wesley Chapel, FL 33544",
+        "rating": "4.85",
+        "review_count": "(680)"
+    },
+    {
+        "name": "Dr. Lane Peterson, DO",
+        "specialty": "Pain Medicine Physiatrist",
+        "address": "428 West Brandon Boulevard\n                                    \n                                    Brandon, FL 33511",
+        "rating": "4.85",
+        "review_count": "(680)"
+    },
+    {
+        "name": "Dr. Lane Peterson, DO",
+        "specialty": "Pain Medicine Physiatrist",
+        "address": "38011 Arbor Ridge Drive\n                                    \n                                    Zephyrhills, FL 33540",
+        "rating": "4.85",
+        "review_count": "(680)"
+    },
+    {
+        "name": "Dr. Leia Rispoli, MD",
+        "specialty": "Interventional Pain Medicine Physician",
+        "address": "4551 Glencoe Ave\n                                    \n                                        Suite 145\n                                    \n                                    Marina Del Rey, CA 90292",
+        "rating": "4.97",
+        "review_count": "(392)"
+    },
+    {
+        "name": "Dr. Seth Kaufman, DO",
+        "specialty": "Physiatrist (Physical Medicine & Rehabilitation)",
+        "address": "130 Ridge Center Drive\n                                    \n                                        Suite 207\n                                    \n                                    Davenport, FL 33837",
+        "rating": "4.92",
+        "review_count": "(294)"
+    },
+    {
+        "name": "Dr. Diego Allende, DO",
+        "specialty": "Family Physician",
+        "address": "6234 N. First\n                                    \n                                    Fresno, CA 93710",
+        "rating": "4.76",
+        "review_count": "(272)"
+    },
+    {
+        "name": "Kaitlin Jackson",
+        "specialty": "Physical Therapist",
+        "address": "3131 Princeton Pike\n                                    \n                                        Building 4A, Suite 100\n                                    \n                                    Lawrenceville, NJ 08648",
+        "rating": "4.92",
+        "review_count": "(214)"
+    },
+    {
+        "name": "Julia Shinkle, PT, DPT",
+        "specialty": "Physical Therapist",
+        "address": "3131 Princeton Pike\n                                    \n                                        Building 4A, Suite 100\n                                    \n                                    Lawrenceville, NJ 08648",
+        "rating": "4.92",
+        "review_count": "(214)"
+    },
+    {
+        "name": "Erik Deocera, DPT",
+        "specialty": "Physical Therapist",
+        "address": "3131 Princeton Pike\n                                    \n                                        Building 4A, Suite 100\n                                    \n                                    Lawrenceville, NJ 08648",
+        "rating": "4.92",
+        "review_count": "(214)"
+    },
+    {
+        "name": "Douglas Hattermann, PT",
+        "specialty": "Physical Therapist",
+        "address": "135 North Park Place\n                                    \n                                        Suite 210\n                                    \n                                    Stockbridge, GA 30281",
+        "rating": "4.96",
+        "review_count": "(198)"
+    },
+    {
+        "name": "Dr. Catherine Logan, MD",
+        "specialty": "Orthopedic Surgeon",
+        "address": "2535  South Downing Street\n                                    \n                                        Suite 100\n                                    \n                                    Denver, CO 80210",
+        "rating": "4.99",
+        "review_count": "(145)"
+    },
+    {
+        "name": "Dr. Cailey Daluga, PT",
+        "specialty": "Physical Therapist",
+        "address": "7000 E Belleview\n                                    \n                                        Suite 310\n                                    \n                                    Greenwood Village, CO 80111",
+        "rating": "5.0",
+        "review_count": "(125)"
+    },
+    {
+        "name": "Kimberly Carroll, PT",
+        "specialty": "Physical Therapist",
+        "address": "120 N. 2nd St.\n                                    \n                                        Suite A\n                                    \n                                    Fernandina Beach, FL 32034",
+        "rating": "5.0",
+        "review_count": "(125)"
+    }
+]

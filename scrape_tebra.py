@@ -81,11 +81,30 @@ def fetch_location_addresses(provider_url):
 
     return addresses
 
+def get_total_providers(search_url):
+    """Extracts the total number of providers from the search page."""
+    response = requests.get(search_url, headers=HEADERS)
+
+    if response.status_code != 200:
+        return 0  # Return 0 if the request fails
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    # Find the text like "Showing 1-18 of 512 providers"
+    total_text = soup.find(string=re.compile(r"Showing \d+-\d+ of (\d+) providers"))
+    
+    if total_text:
+        match = re.search(r"of (\d+)", total_text)
+        if match:
+            return int(match.group(1))
+
+    return 0  # Default if not found
+
 def fetch_provider_details(search_url):
     """Fetch providers from a specialty search page"""
     start = 0
     PER_PAGE = 18
-    TOTAL_PROVIDERS = 100  # Can be updated dynamically
+    TOTAL_PROVIDERS = get_total_providers(search_url) or 100
 
     providers = []
     
